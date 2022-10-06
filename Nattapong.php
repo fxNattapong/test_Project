@@ -1,3 +1,3 @@
 <?php 
-echo "Nattapong Paungpool 116310905097-6";
+echo "Nattapong 116310905097-6";
 ?>
